@@ -12,6 +12,16 @@ from shutil import move
 # Setup logging
 logging.basicConfig(level=logging.INFO, filename='file_operations.log', filemode='w', format='%(asctime)s - %(levelname)s - %(message)s')
 
+
+# ! FILL IN BELOW
+# source_dir = ""
+# dest_dir_sfx = ""
+# dest_dir_music = ""
+# dest_dir_video = ""
+# dest_dir_image = ""
+#dest_dir_documents = ""
+
+
 # Define directories
 source_dir = r"C:/Users/William/Downloads"
 dest_dir_sfx = r"C:/Users/William/Downloads/Sound"
